@@ -1,4 +1,4 @@
-phpMyAdmin
+phpMyAdmin + UI
 ==========
 
 A web interface for MySQL and MariaDB.
